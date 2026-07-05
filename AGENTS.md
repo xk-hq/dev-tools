@@ -4,7 +4,7 @@ This file provides guidance to Qoder (qoder.com) when working with code in this 
 
 ## 项目概述
 
-Dev Tools — 面向开发者和IT从业者的在线工具集合。包含百余种实用工具（加密、格式转换、网络计算、文本处理等），支持中英文双语，可通过 Docker 自托管。
+Dev Tools — 面向开发者和IT从业者的在线工具集合。包含百余种实用工具（加密、格式转换、网络计算、文本处理等），支持中英文双语，可通过 Docker 自托管项目。
 
 ## 常用命令
 
